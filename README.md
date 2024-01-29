@@ -24,17 +24,7 @@ When working with overlays, especially with `MKMapView`, it's crucial to determi
     git clone https://github.com/yourusername/ConformingOverlayRegion.git
     ```
 
-2. Integrate the utility into your Swift project.
-
-3. Use the utility with `MKMapView`:
-
-    ```swift
-    // Example code here
-    ```
-
-## Installation
-
-Include the `ConformingOverlayRegion.swift` file in your project.
+2. Copy used code into your project.
 
 ## Contribution
 
