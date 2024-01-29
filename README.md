@@ -21,7 +21,7 @@ When working with overlays, especially with `MKMapView`, it's crucial to determi
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/ConformingOverlayRegion.git
+    git clone https://github.com/albu-alex/ConformingOverlayRegion.git
     ```
 
 2. Copy used code into your project.
